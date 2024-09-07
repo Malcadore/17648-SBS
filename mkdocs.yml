@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: 17648 Sensor Based Systems
+
+nav:
+  - Home: index.md
+  - Course Software: software.md
+  - Course Hardware: coursehardware.md
+  - Course Project: project.md
+  - Sensor Basics: sensorbasics.md
+  - About: syllabus.md
+theme: readthedocs
