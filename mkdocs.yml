@@ -6,5 +6,6 @@ nav:
   - Course Hardware: coursehardware.md
   - Course Project: project.md
   - Sensor Basics: sensorbasics.md
+  - Digital Twins: digitaltwins.md
   - About: syllabus.md
 theme: readthedocs
